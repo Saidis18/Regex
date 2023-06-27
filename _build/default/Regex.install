@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/Regex/META"
+  "_build/install/default/lib/Regex/dune-package"
+  "_build/install/default/lib/Regex/opam"
+]
+bin: [
+  "_build/install/default/bin/Regex"
+]
